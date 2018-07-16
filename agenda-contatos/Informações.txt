@@ -1,0 +1,15 @@
+-- Banco de dados --
+
+Para utilizar o script de criação do banco deverá ser desativado a verificação de chaves estrangeiras !!
+
+Nome do banco : sistemacontato
+Host : localhost
+usuario : root
+senha : '' (nenhuma)
+
+URL para execução: localhost/agenda-contatos/views/paginas/index.php
+
+-- PHP --
+
+Sistema desenvolvido em PHP OO seguindo o padrão de projetos MVC
+Não foi utilizado nenhum framework da linguagem.
